@@ -1,0 +1,37 @@
+.login{
+    background-color: rgb(170, 158, 158);
+    width: 400px;
+    border-radius: 10px;
+    margin: 100px auto;
+    padding: 30px;
+}
+.login-page{
+    color: white;
+    text-align: center;
+    margin-top: 3px; 
+    font-size: 28px;
+}
+.input{
+    border: 1px solid white;
+    padding: 18px;
+    border-radius: 6px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: 16px;
+    
+}
+.button{
+    width: 100%;
+    padding:18px;
+    box-sizing: border-box; 
+    font-size: 16px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(245, 106, 55);
+    margin: 15px 0px;
+}
+.forgot-link{
+    color: rgb(245, 240, 240);
+}
+
